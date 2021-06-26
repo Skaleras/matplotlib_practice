@@ -1,2 +1,2 @@
 # matplotlib_practice
-Visualizations and graphs with Python practices
+practicing visualizations and graphs with Python
